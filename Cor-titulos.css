@@ -1,0 +1,41 @@
+.Inglês{
+  font-size: 18px;
+  text-align: center;
+  color: #44ff00;
+}
+
+.Física {
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Português{
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Ciência{
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Biologia{
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+.Educação-Física{
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+
+/*cor de botão*/
+.button:hover {
+    background-color: #1dd320;
+    box-shadow: 0px 0px 20px 0px #73ff00;
+}
